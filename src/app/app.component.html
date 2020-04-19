@@ -1,0 +1,42 @@
+<div class="width font-family margin-bottom">
+    <div class="row row-div" *ngFor="let data of ProductList">
+        <div class="image-div center">
+           <img src="{{data.ImageUrl}}" width="80" height="80"/>
+           <br/>
+           <span>{{data.OfferText}}</span>
+        </div>
+        <div class="product-div">
+          <span>{{data.BrandName}}</span><br/>
+          <span>{{data.ProductName}}</span><br/>
+          <span>{{data.Quantity}}</span><br/>
+          <span>MRP&nbsp;{{data.MRP}}/-</span><br/>
+          <span>Rs.&nbsp;{{data.Price}}/-</span><br/>
+          <div class="row">
+             <div class="image-div">
+              <button class="btn" (click)="addingQuantity(data.Price,data.Count,data.id)">Add Cart</button>
+             </div>
+             <div style="width: 60%;margin-left:50%;">
+                  <div style="width: 20%;position: absolute;">
+                    <img src="../assets/images/download.png" width="30" height="30" (click)="addingQuantity(data.Price,data.Count,data.id)"/>
+                  </div>
+                  <div style="width: 20%;position:relative; margin-left:43px">
+                    <span>{{data.Count}}</span>
+                  </div>
+                  <div style="width: 20%;position: relative;margin-top: -19px;margin-left: 65px;">
+                    <img src="../assets/images/download (1).png" width="30" height="30" (click)="removeQuantity(data.Price,data.Count,data.id)"/>
+                  </div>
+             </div>
+          </div>
+        </div>
+    </div>
+  </div>
+  <div class="row" style="position:fixed;bottom: 0px; background-color:grey;padding: 10px;">
+         <div style="width: 40%;position: absolute;color: white;text-align: center;"> 
+            <span>Quantity: {{Quantity}}</span><br/>
+            <span>Price : {{Total}}</span>
+         </div>
+         <div style="width: 60%;margin-left:60%;">
+          <button class="btn-checkout" (click)="checkOut()">checkout</button>
+         </div>
+  </div>
+

@@ -1,0 +1,13 @@
+
+.row{
+    width:100% !important;
+}
+.btn{
+    padding: 10px 30px 10px 30px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 45px;
+    outline: none;
+}

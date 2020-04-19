@@ -1,0 +1,125 @@
+{
+   "products":
+   [
+  {
+     "id": "0",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "1",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "2",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "3",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "4",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "5",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "6",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "7",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "8",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "9",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "10",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   },
+   {
+      "id": "11",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF"
+   }
+]
+}

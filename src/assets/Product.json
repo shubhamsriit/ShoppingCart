@@ -1,0 +1,137 @@
+{
+   "products":
+   [
+  {
+     "id": "0",
+      "BrandName": "Amul",
+      "ProductName":"Amul Pure Ghee",
+      "Quantity":"1L",
+      "Price":"440",
+      "MRP":"460",
+      "ImageUrl":"../assets/images/product-jpeg-500x500.jpg",
+      "OfferText":"10% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "1",
+      "BrandName": "Aashirvaad",
+      "ProductName":"Whole Wheat Flour",
+      "Quantity":"5KG",
+      "Price":"250",
+      "MRP":"200",
+      "ImageUrl":"../assets/images/wheat.jpg",
+      "OfferText":"20% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "2",
+      "BrandName": "India Gate",
+      "ProductName":"Basmati Rice",
+      "Quantity":"1KG",
+      "Price":"81",
+      "MRP":"90",
+      "ImageUrl":"../assets/images/rice.jpg",
+      "OfferText":"10% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "3",
+      "BrandName": "Parle",
+      "ProductName":"Marie",
+      "Quantity":"1",
+      "Price":"16",
+      "MRP":"20",
+      "ImageUrl":"../assets/images/biscuit.jpg",
+      "OfferText":"20% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "4",
+      "BrandName": "Nestle",
+      "ProductName":"Maggi",
+      "Quantity":"1",
+      "Price":"10",
+      "MRP":"12",
+      "ImageUrl":"../assets/images/maggi.jpg",
+      "OfferText":"10% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "5",
+      "BrandName": "Kurkure",
+      "ProductName":"Kurkure Masala Munch",
+      "Quantity":"1",
+      "Price":"21",
+      "MRP":"30",
+      "ImageUrl":"../assets/images/kurkure.jpg",
+      "OfferText":"30% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "6",
+      "BrandName": "Lays",
+      "ProductName":"American Style Chips",
+      "Quantity":"1",
+      "Price":"27",
+      "MRP":"30",
+      "ImageUrl":"../assets/images/lays.jpg",
+      "OfferText":"10% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "7",
+      "BrandName": "Peanuts",
+      "ProductName":"Salted Peanuts",
+      "Quantity":"1",
+      "Price":"72",
+      "MRP":"80",
+      "ImageUrl":"../assets/images/peanut.jpg",
+      "OfferText":"10% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "8",
+      "BrandName": "Nestle",
+      "ProductName":"Kitkat",
+      "Quantity":"1",
+      "Price":"32",
+      "MRP":"40",
+      "ImageUrl":"../assets/images/kitkat.jpg",
+      "OfferText":"20% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "9",
+      "BrandName": "Rostaa",
+      "ProductName":"Almonds",
+      "Quantity":"1KG",
+      "Price":"720",
+      "MRP":"800",
+      "ImageUrl":"../assets/images/badam.jpg",
+      "OfferText":"10% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "10",
+      "BrandName": "Britannia",
+      "ProductName":"Brown Bread",
+      "Quantity":"1",
+      "Price":"40",
+      "MRP":"50",
+      "ImageUrl":"../assets/images/bread.jpg",
+      "OfferText":"20% OFF",
+      "Count":"0"
+   },
+   {
+      "id": "11",
+      "BrandName": "Haldiram",
+      "ProductName":"Bujia Sev",
+      "Quantity":"2kg",
+      "Price":"160",
+      "MRP":"200",
+      "ImageUrl":"../assets/images/namkeen.jpg",
+      "OfferText":"20% OFF",
+      "Count":"0"
+   }
+]
+}
